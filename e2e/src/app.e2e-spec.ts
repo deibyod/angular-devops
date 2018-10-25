@@ -9,6 +9,6 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('Welcome to angular-for-ci!');
+    expect(page.getParagraphText()).toEqual('Welcome to angular-devops!');
   });
 });

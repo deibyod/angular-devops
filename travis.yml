@@ -22,3 +22,4 @@ deploy:
   api_key:
     secure: $HEROKU_AUTH_TOKEN
   app: angular-devops
+  on: angular-devops-workshop
